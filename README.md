@@ -1,7 +1,7 @@
 # FaceManipulation
----
 
-Article Review
+
+## Article Review
 
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/61357783/142786828-91d48f07-02d1-473d-a39a-99d263c2ad3a.png">
 
