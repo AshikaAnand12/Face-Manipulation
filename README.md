@@ -8,4 +8,5 @@
 Source: https://arxiv.org/pdf/2001.00179v3.pdf   
 Author: Ashika Anand Babu   
 Medium link: https://medium.com/@ashika.pobbathi/summary-survey-of-face-manipulation-and-fake-detection-589439b26ca6    
-Slides link: https://docs.google.com/presentation/d/1Xzhze1rPboR2IUnaNOOcjkccDT3xf_lWICVr97HNEMw/edit?usp=sharing  
+Slides link: https://docs.google.com/presentation/d/1Xzhze1rPboR2IUnaNOOcjkccDT3xf_lWICVr97HNEMw/edit?usp=sharing    
+Youtube Video: 
